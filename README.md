@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chong Jun Hong
-======================================================================================================================================
+Hi !<img src="[animated-grey-cat-hello-hi-waving-6m2r3pv52ounr82n](https://gifdb.com/images/high/hello-cute-cat-box-kns8e4qa95ne2tnv.gif)" width="200" height="200"/>My name is Chong Jun Hong
+================================================================================================================================
+
 
 First Year Student Bachelor of Computer Science (Graphic And Multimedia Software)
 ---------------------------------------------------------------------------------
