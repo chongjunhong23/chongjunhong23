@@ -9,6 +9,7 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 * I'm passionate in programming and problem solving
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [chongjunhong@graduate.utm.my](mailto:chongjunhong@graduate.utm.my)
+* You can find all my projects and thoughts at 
 
 ### Skills
 
@@ -22,7 +23,8 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 
 <p align="left"> <a href="https://www.github.com/chongjunhong23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+
+
 
 <b>My GitHub Stats</b>
 
