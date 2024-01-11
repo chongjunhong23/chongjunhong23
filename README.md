@@ -11,6 +11,8 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 - 📫 reach me by **chongjunhong@graduate.utm.my**
 - 🌱 I’m currently studying coding with **C++**
 - 👨‍💻 You can find all my projects and thoughts at
+
+###
   
 ###
 
@@ -24,6 +26,8 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 
 ### 🛠Tools :
 
+###
+
 
 <p align="left">
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="![vscode](https://github.com/chongjunhong23/chongjunhong23/assets/148421606/d32a1255-f988-44b0-ba39-e772ea0ee942)" width="36" height="36"</a>
@@ -36,17 +40,20 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 
 ### 💬Socials :
 
+###
 <p align="left"> <a href="https://www.github.com/chongjunhong23" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 
 
 ###
+
 <h3 align="left">🔥   My Stats :</h3>
 
+###
 
 <a href="http://www.github.com/chongjunhong23"><img src="https://github-readme-stats.vercel.app/api?username=chongjunhong23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="chongjunhong23's GitHub stats" /></a>
 
 <a href="http://www.github.com/chongjunhong23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chongjunhong23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/chongjunhong23"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chongjunhong23&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
