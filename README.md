@@ -6,6 +6,7 @@ First Year Student Bachelor of Computer Science (Graphic And Multimedia Software
 
 Hi, i'm first year student who currently taking the bachelor of Computer Science (Graphic and Multimedia Software) in UTM, Skudai, Johor.
 
+* I'm passionate in programming and problem solving
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [chongjunhong@graduate.utm.my](mailto:chongjunhong@graduate.utm.my)
 
