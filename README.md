@@ -10,7 +10,7 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 - 🌍  I'm based in Malaysia
 - 📫 reach me by **chongjunhong@graduate.utm.my**
 - 🌱 I’m currently studying coding with **C++**
-- 👨‍💻 You can find all my projects and thoughts at
+- 👨‍💻 You can find all my projects and thoughts at https://github.com/chongjunhong23/TIS-Project-Assignment
 
 ###
   
