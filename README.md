@@ -12,6 +12,20 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 - 🌱 I’m currently studying coding with **C++**
 - 👨‍💻 You can find all my projects and thoughts at https://github.com/chongjunhong23/TIS-Project-Assignment
 
+### 📖 Education: 
+- Bachelor of Computer Science (Graphics and Multimedia Software)  (now)</p>
+- STPM   (2022)</p>
+- SPM     (2020)</p>
+
+###
+### Position: 
+
+- Vice president of School Level Librarian Association (2020)
+- Vice President of School Level Wushu Club (2020)
+- Treasurer of School Level Board Game Association (2022)
+- Secretary of School Level Indoor Game Competition Project Session (2022)
+  
+
 ###
   
 ###
