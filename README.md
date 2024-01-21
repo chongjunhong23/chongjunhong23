@@ -18,10 +18,10 @@ Hi, i'm first year student who currently taking the bachelor of Computer Science
 - SPM     (2020)</p>
 
 ###
-### Position: 
+### 👨🏻‍🎓 Position: 
 
 - Vice president of School Level Librarian Association (2020)
-- Vice President of School Level Wushu Club (2020)
+- Vice President of School Level Wushu Association (2020)
 - Treasurer of School Level Board Game Association (2022)
 - Secretary of School Level Indoor Game Competition Project Session (2022)
   
