@@ -1,90 +1,90 @@
-<h1 align="center">Hey, I'm Chong Jun Hong 👋</h1>
+<h1 align="center">Chong Jun Hong</h1>
 
 <p align="center">
-Computer Science Student @ Universiti Teknologi Malaysia  
+Computer Science Undergraduate @ Universiti Teknologi Malaysia  
 <br/>
 Specialising in Graphics & Multimedia Software  
 <br/>
-🎯 Seeking Software Engineering Internship (Sep 2026 – Feb 2027)
+Software Engineering Intern (Sep 2026 – Feb 2027) — Open to Opportunities
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Profile
 
-- 🎓 3rd Year Computer Science student @ Universiti Teknologi Malaysia  
-- 📊 CGPA: 3.99 / 4.00  
-- 💻 Interested in software engineering, full-stack development, and computer vision  
-- 🔍 Enjoy building real-world applications and solving practical problems  
-- 🌱 Currently exploring areas like image processing, data visualisation, and multimedia systems  
+I am a third-year Computer Science student at Universiti Teknologi Malaysia with a strong interest in software engineering, full-stack development, and computer vision.  
+
+With a CGPA of 3.99, I have developed a solid academic foundation alongside hands-on experience in building real-world systems through academic and collaborative projects.  
+
+I am particularly interested in designing and developing efficient, scalable applications that combine both technical depth and practical usability.
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Technical Expertise
 
-**Languages**  
+**Programming Languages**  
 C++ • Java • Python • JavaScript • PHP  
 
-**Web Development**  
-HTML • CSS • Node.js  
+**Web & Backend Development**  
+HTML • CSS • Node.js • RESTful Concepts  
 
-**Database**  
+**Database Systems**  
 MySQL  
 
-**Computer Vision & GUI**  
-OpenCV • PyQt6  
+**Computer Vision & GUI Development**  
+OpenCV • PyQt  
 
-**Tools**  
+**Tools & Development Environment**  
 Git • GitHub • VS Code • MySQL Workbench  
 
 ---
 
-## 📌 Projects
+## 📂 Selected Projects
 
-### 🔹 IEM Connect — Event Management System
-A web-based system developed for IEM UTM to manage events, registrations, and participant tracking in a centralized platform.
+### IEM Connect — Event Management System  
+A web-based platform developed in collaboration with IEM UTM Student Section to streamline event organisation and participation tracking.
 
-- Built backend functionalities using **Node.js and MySQL**  
-- Designed database structure and handled data processing  
-- Worked closely with another backend developer and supported frontend integration  
-
----
-
-### 🔹 iPixelo — Image Processing Application
-A desktop application for image editing and enhancement with an interactive GUI.
-
-- Developed using **Python, OpenCV, and PyQt**  
-- Implemented image transformations and enhancement techniques  
-- Designed GUI with real-time preview and parameter control  
+- Contributed as a **backend developer**, focusing on database design and backend logic implementation  
+- Developed data handling processes using **Node.js and MySQL**  
+- Worked collaboratively with team members to ensure smooth integration across system components  
 
 ---
 
-### 🔹 Online Food Ordering System
-A full-stack web application supporting Admin, Staff, and Customer workflows.
+### iPixelo — Image Processing & Enhancement Application  
+A desktop application that demonstrates practical implementation of image processing techniques through an interactive interface.
 
-- Built using **PHP, JavaScript, HTML, and MySQL**  
-- Implemented authentication, cart system, and order tracking  
-- Developed admin dashboard for system and data management  
-
----
-
-## 🏆 Achievement
-
-🥇 Gold Award — HCI Day 2025  
-Developed a **Smart Wallet prototype** focused on improving student financial management using HCI principles.
+- Built using **Python, OpenCV, and PyQt**  
+- Implemented image enhancement techniques and transformation operations  
+- Designed an interactive GUI with real-time image preview and user-controlled adjustments  
 
 ---
 
-## 📫 Contact Me
+### Online Food Ordering System  
+A role-based web application designed to support digital food ordering workflows.
 
-📧 Email: junhongchong2003@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/chong-jun-hong-46b404401/
+- Developed using **PHP, JavaScript, HTML, and MySQL**  
+- Implemented authentication, order processing, and role-based access control  
+- Built administrative functionalities for managing system data and operations  
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Achievement
 
-![](https://komarev.com/ghpvc/?username=ccy0810&color=blue&style=flat-square)
+**Gold Award — HCI Day 2025**  
+Developed a *Smart Wallet* prototype applying Human-Computer Interaction principles to improve personal financial management for students.
+
+---
+
+## 📬 Contact
+
+- Email: junhongchong2003@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/chong-jun-hong-46b404401/  
+
+---
+
+## 📊 GitHub Analytics
+
+![](https://komarev.com/ghpvc/?username=chongjunhong23&color=blue&style=flat-square)
 
 
 
