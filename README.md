@@ -20,7 +20,7 @@ I am particularly interested in designing and developing efficient, scalable app
 
 ---
 
-## ⚙️ Techn Stack
+## ⚙️ Tech Stack
 
 **Programming Languages**  
 C++ • Java • Python • JavaScript • PHP  
@@ -48,7 +48,7 @@ A web-based platform developed to centralize event management, registration, and
 
 It addresses issues such as fragmented event information and manual registration by providing an integrated solution for managing events, communication, and participant data efficiently.  
 
----
+
 
 ### Key Features  
 
@@ -82,7 +82,6 @@ It addresses issues such as fragmented event information and manual registration
 - Role-based access control  
 - Secure session handling and logout system  
 
----
 
 ### My Role: Backend Developer  
 
@@ -92,12 +91,9 @@ It addresses issues such as fragmented event information and manual registration
 - Supported frontend integration to ensure seamless interaction between user interface and backend services  
 - Participated in debugging, testing, and improving overall system performance  
 
----
-
 ### Technologies  
 Node.js, JavaScript, MySQL, HTML, CSS  
 
----
 
 ### Project Outcome  
 
@@ -110,7 +106,7 @@ The system provides a centralized platform that enhances event management effici
 
 A desktop-based image editing and enhancement application designed to demonstrate the practical application of fundamental image processing techniques through an interactive graphical user interface. The system enables users to perform real-time image manipulation and visualise changes dynamically.  
 
----
+
 
 ### Key Features  
 
@@ -142,7 +138,7 @@ A desktop-based image editing and enhancement application designed to demonstrat
 - Non-destructive workflow with reset functionality  
 - Save and export processed images to local storage  
 
----
+
 
 ### Technologies  
 Python, OpenCV, PyQt6  
@@ -154,7 +150,6 @@ Python, OpenCV, PyQt6
 
 A web-based platform that allows users to browse menus, place orders, and track order status through an interactive interface. The system supports multiple user roles (Admin, Staff, Customer), each with dedicated functionalities to streamline restaurant operations and management.  
 
----
 
 ### Key Features  
 
@@ -183,7 +178,6 @@ A web-based platform that allows users to browse menus, place orders, and track 
 - Feedback and rating system for service evaluation  
 - Messaging functionality for communication between staff and customers  
 
----
 
 ### Technologies  
 PHP, MySQL, JavaScript, HTML, CSS  
@@ -199,7 +193,6 @@ UTM Tenpin Bowling
 - Designed promotional materials and handled event photography, ensuring effective documentation and engagement.  
 - Assisted in producing multimedia content, including videos and digital assets for event promotion and post-event use.  
 
----
 
 ### Head of Registration Unit  
 CGMA Interactive Day  
@@ -207,13 +200,14 @@ CGMA Interactive Day
 - Managed participant registration and attendance tracking to ensure smooth event operations.  
 - Coordinated with team members to handle on-site registration and resolve operational issues during the event.  
 
+---
+
 ## 🏅 Achievement
 
 **Gold Award — HCI Day 2025**  
 
 ---
 
-## 📬 Contact
 
 ## 📬 Connect with me:
 
